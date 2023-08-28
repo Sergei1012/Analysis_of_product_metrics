@@ -29,4 +29,4 @@
 
 Также было выявлено, какие товары пользуются наибольшим спросом и приносят основной доход:
 
-![]([https://github.com/Sergei1012/Analysis_of_product_metrics/blob/master/Графики/ARPU.png](https://github.com/Sergei1012/Analysis_of_product_metrics/blob/master/Графики/Распределение%20продуктов%20в%20зависимости%20от%20выручки.png)https://github.com/Sergei1012/Analysis_of_product_metrics/blob/master/Графики/Распределение%20продуктов%20в%20зависимости%20от%20выручки.png)
+![](https://github.com/Sergei1012/Analysis_of_product_metrics/blob/master/Графики/Распределение%20продуктов%20в%20зависимости%20от%20выручки.png)
